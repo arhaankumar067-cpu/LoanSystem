@@ -44,17 +44,12 @@ It follows real-world lending principles like Debt-to-Income ratio, LTV (Loan-to
   3.Prevents negative or impossible loan outputs
 
 # EXAMPLE OUTPUT
-
-
 Loan Assessment Summary for Arhaan Kumar
-
 Maximum Loan Capability: 4,000,000.00
 (Annual Interest Rate: 8.5%)
-
 Max Affordable Monthly EMI: 33,750.00
 Collateral Loan Limit (80% LTV): 1,200,000.00
 Income Loan Limit (5x Annual Income): 4,500,000.00
-
 Equated Monthly Installments (EMI) for different tenures:
  - 5 Years: EMI = 82,121.67 per month
  - 10 Years: EMI = 49,598.21 per month
