@@ -18,8 +18,8 @@ It follows real-world lending principles like Debt-to-Income ratio, LTV (Loan-to
 
  #PROJECT STRUCTURE:
 
-├── loan_assessor.py   # Main program with EMI and loan calculations
-└── README.md          # Documentation
+ loan_assessor.py   # Main program with EMI and loan calculations
+ README.md          # Documentation
 
 #CODE LOGIC OVERVIEW:
 
